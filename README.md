@@ -1,7 +1,5 @@
-# HI Internet, I'm tracking code changes!
+@jace/now-joke
+===============================================
+It&#39;s what it says on the lid
 
-> Because Code is Fun!
-
-And I'm a cool person with a cool hobby and/or job <3
-
-Created with Love following [Upside-Down Andrew's Tutorial](https://andrew.alburydor.com/posts/2020-03-24-nowui-part1point5/)
+Component Authors, provide some documentation for your users here!
